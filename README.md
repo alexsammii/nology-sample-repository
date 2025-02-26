@@ -1,3 +1,3 @@
 # nology-sample-repository
 
-##Leave your github
+Leave your github
